@@ -1,1 +1,1 @@
-# Solution 'SocialAPI'
+SocialAPI
